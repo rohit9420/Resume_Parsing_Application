@@ -1,0 +1,16 @@
+.git
+.gitignore
+.dockerignore
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+.env
+.env.*
+!.env.example
+resumes/
+*.pdf
+*.docx

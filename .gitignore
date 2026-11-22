@@ -13,4 +13,6 @@ wheels/
 .env
 .env.*
 !.env.example
+
+# Sample resumes can contain personal information
 resumes/
